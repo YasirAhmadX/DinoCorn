@@ -6,3 +6,6 @@ Accurate and rapid identification of corn leaf diseases is crucial for sustainab
 
 ## Dataset
 Kaggle Link: https://www.kaggle.com/datasets/yasirahmad0810/consolidated-corn-dataset
+
+## Training cookbook
+Kaggle Notebook: https://www.kaggle.com/code/ajaynidadavolu/dinov2-corn2-final
